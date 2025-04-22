@@ -10,5 +10,6 @@ This Power Bi report analyses the Actual vs Target sales. This report consists:
 8. Total customer, total boxes, total amount, amount per boxes, Maximum Geo cards
 9. Data bars: Conditional Formatting
 10. 2 slicer options: List Slicer, Box Slicer
+11. Visuals used: Bar, Column, Treemap
 
 This report helps the stakeholders to identify trends, top performing regions,sales person, underperforming segments.
