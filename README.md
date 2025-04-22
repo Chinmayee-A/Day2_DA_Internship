@@ -15,4 +15,4 @@ This Power Bi report analyses the Actual vs Target sales. This report consists:
 
 This report helps the stakeholders to identify trends, top performing regions,sales person, underperforming segments.
 
-Note: The remaining files added to the repository are the source file, PBI file and all the resources used.
+Note: The remaining files added to the repository are the source file, PBI file and the working of the visual (Video).
